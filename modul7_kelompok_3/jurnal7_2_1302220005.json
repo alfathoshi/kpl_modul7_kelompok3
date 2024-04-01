@@ -1,0 +1,39 @@
+{
+  "members" : [
+    {
+      "firstName": "Muhammad Bintang ",
+      "lastName": "Al-Fath",
+      "gender": "male",
+      "age": 28,
+      "nim": "1302223099"
+    },
+    {
+      "firstName": "Wildan Syukri ",
+      "lastName": "Niam",
+      "gender": "male",
+      "age": 19,
+      "nim": "1302220005"
+    },
+    {
+      "firstName": "Arga Adolf ",
+      "lastName": "Lumunon",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302223038"
+    }
+    {
+      "firstName": "Faris Azhar ",
+      "lastName": "Dwiputra",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302223123"
+    }
+    {
+      "firstName": "Farah Amalia ",
+      "lastName": "Putri",
+      "gender": "female",
+      "age": 20,
+      "nim": "1302223137"
+    }
+  ]
+}
