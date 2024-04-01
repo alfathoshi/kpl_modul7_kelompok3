@@ -1,0 +1,23 @@
+{
+  "nama": {
+    "firstName": "Faris Azhar",
+    "lastName": "Dwiputra"
+  },
+  "gender": "male",
+  "age": 19,
+
+  "address": {
+    "streetAddress": "Jl.Nangka 1,Rangkapan jaya",
+    "city": "Depok",
+    "state": "West Java"
+  },
+  "courses": [
+    {"name": "Konstruksi Perangkat Lunak"},
+    {"name": "Basis Data"},
+    {"name": "Dasar Jaringan Komputer"},
+    {"name": "Kewirausahaan"},
+    {"name": "Pemograman Berorientasi Objek"},
+    {"name": "Pengalaman Pengguna"},
+    {"name": "Proyek Tingkat II"}
+  ]
+}
