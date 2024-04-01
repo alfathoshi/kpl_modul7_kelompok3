@@ -1,0 +1,15 @@
+{
+   "firstName": "Wildan",
+   "lastName": "Niam",
+   "gender": "male",
+   "age": 19,
+   "address": {
+       "streetAddress": "Sukabirus",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRI2F2", "name": "Nama Mata Kuliah" }
+   ]
+}
