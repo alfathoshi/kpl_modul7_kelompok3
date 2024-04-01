@@ -1,7 +1,18 @@
-﻿internal class Program
+﻿using System;
+
+namespace modul7_kelompok_3
 {
-    private static void Main(string[] args)
+    class Program
     {
-        Console.WriteLine("Hello, World!");
+        static void Main(string[] args)
+        {
+            DataMahasiswa1302223137 dataMhs = new DataMahasiswa1302223137();
+     
+            dataMhs.ReadJSON();
+            Console.WriteLine();
+           
+
+        }
+
     }
 }
